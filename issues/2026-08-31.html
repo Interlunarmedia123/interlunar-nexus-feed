@@ -3,15 +3,17 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Nexus Feed - 31 August 2026 - Interlunar Media</title>
-<link rel="stylesheet" href="../assets/nexus.css">
+<title>Nexus Feed - Interlunar Media</title>
+<link rel="stylesheet" href="assets/nexus.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
+<script src="assets/nexus-config.js"></script>
 </head>
 <body>
 <div class="wrap">
   <header class="top">
     <h1>Nexus Feed</h1>
     <div class="meta">Interlunar Media &middot; Weekly &middot; 31 August 2026</div>
-    <p class="tagline">Archived issue. A curated reading page, not another feed to scroll.</p>
+    <p class="tagline">A curated reading page, not another feed to scroll. Filter by section or source below.</p>
   </header>
 
   <div class="stat-row">
@@ -34,12 +36,24 @@
   <div class="grid" id="grid"></div>
   <p class="empty-state" id="empty-state">No cards match those filters. Try clearing them.</p>
 
+  <section class="source-form-section">
+    <h2>Suggest a source</h2>
+    <p class="hint">Know a site, newsletter or account that should feed into this? Add it here - it goes on the review list for next week.</p>
+    <form id="source-form">
+      <input type="text" name="name" placeholder="Source name" required>
+      <input type="url" name="url" placeholder="URL (optional)">
+      <input type="text" name="note" placeholder="Why it's worth including (optional)">
+      <button type="submit">Suggest</button>
+    </form>
+    <span id="source-form-status"></span>
+  </section>
+
   <footer class="page-footer">
-    <p>Curated by Nexus for Interlunar Media. Reply in Slack to steer next week's picks - more of something, less of something, drop a source entirely.</p>
-    <p class="archive-link"><a href="../index.html">&larr; Latest issue</a> &middot; <a href="../archive.html">Past issues</a></p>
+    <p>Curated by Nexus for Interlunar Media. Mark cards relevant/not, leave a note, or suggest a source above - it all feeds next week's picks.</p>
+    <p class="archive-link"><a href="archive.html">Past issues</a></p>
   </footer>
 </div>
-<script src="../assets/nexus.js"></script>
-<script>initNexusFeed('../data/2026-08-31.json');</script>
+<script src="assets/nexus.js"></script>
+<script>initNexusFeed('data/2026-08-31.json');</script>
 </body>
 </html>
