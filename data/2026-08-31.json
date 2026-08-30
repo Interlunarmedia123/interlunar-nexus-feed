@@ -1,0 +1,140 @@
+{
+  "issue": "2026-08-31",
+  "issueLabel": "31 August 2026",
+  "items": [
+    {
+      "id": "meta-placement-exclusions",
+      "title": "Meta removes ad-set-level placement exclusion controls",
+      "why": "Workflow break, not cosmetic: campaigns relying on placement exclusions to keep spend off weak surfaces need checking now.",
+      "source": "commonthreadco.com",
+      "date": "2026-08-21",
+      "dateLabel": "21 Aug 2026",
+      "url": "https://commonthreadco.com/blogs/coachs-corner/meta-ads-changes-2026",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "google-limited-ad-serving",
+      "title": "Google Ads extends Limited Ad Serving policy to all accounts",
+      "why": "Reduced impressions can hit accounts with no obvious policy strike — worth knowing before a client loses reach unexpectedly.",
+      "source": "support.google.com",
+      "date": "2026-08-01",
+      "dateLabel": "Aug 2026",
+      "url": "https://support.google.com/adspolicy/answer/17344822?hl=en",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "google-lifecycle-optimization",
+      "title": "Google Ads adds Customer Lifecycle Optimization to conversion goals",
+      "why": "Lets accounts optimise toward lifecycle stages instead of one-off conversions — relevant for any client running a retention or LTV play.",
+      "source": "commonthreadco.com",
+      "date": "2026-08-26",
+      "dateLabel": "26 Aug 2026",
+      "url": "https://commonthreadco.com/blogs/coachs-corner/google-ads-changes-2026",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "google-customer-type-labeling",
+      "title": "Google Ads starts auto-labeling customer lists by type",
+      "why": "Passive change that can shift how remarketing lists get treated — worth a spot check on client accounts.",
+      "source": "digitalapplied.com",
+      "date": "2026-08-18",
+      "dateLabel": "18 Aug 2026",
+      "url": "https://www.digitalapplied.com/blog/google-ads-customer-type-labeling-2026-advertiser-guide",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "gemini-omni-asset-studio",
+      "title": "Gemini Omni lands in Google Ads Asset Studio",
+      "why": "Generates on-brand creative variants directly inside Asset Studio — could cut creative production time on Performance Max accounts.",
+      "source": "business.google.com",
+      "date": "2026-08-26",
+      "dateLabel": "26 Aug 2026",
+      "url": "https://business.google.com/us/accelerate/announcements/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "uniphore-marketing-ai",
+      "title": "Uniphore launches Marketing AI, a CDP alternative",
+      "why": "Positioned to replace a traditional customer data platform — early-stage, but worth a watch if a client conversation touches CDP consolidation.",
+      "source": "martech.org",
+      "date": "2026-08-01",
+      "dateLabel": "Aug 2026",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "pistachio-papi-ad-standards",
+      "title": "Ad watchdog finds Pistachio Papi breached obscenity and violence rules with AI-generated clip",
+      "why": "A brand's AI-generated ad copped two Ad Standards breaches in a month — a live reminder to run AI creative through the same compliance checks as anything else.",
+      "source": "smartcompany.com.au",
+      "date": "2026-08-18",
+      "dateLabel": "18 Aug 2026",
+      "url": "https://www.smartcompany.com.au/marketing/ad-standards-pistachio-papi-breached-obscenity-violence-rules-ai-clip/",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "frank-body-jessica-hatzis-qa",
+      "title": "Q&A: Frank Body's Jessica Hatzis on what founders get wrong and right about building cult brands",
+      "why": "The Frank Body and Willow & Blake co-founder on the instincts behind building $1B+ in Australian brand value — a useful read before the next client brand strategy pitch.",
+      "source": "smartcompany.com.au",
+      "date": "2026-08-05",
+      "dateLabel": "5 Aug 2026",
+      "url": "https://www.smartcompany.com.au/marketing/qa-frank-bodys-jessica-hatzis-on-what-founders-get-wrong-and-right-about-building-cult-brands/",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "ooshies-campaign-lesson",
+      "title": "From the cost of living to nostalgia: Why Ooshies became such a hit in 2026",
+      "why": "A campaign strategist breaks down why Woolworths' Ooshies giveaway sold out nationally — a case study angle worth borrowing for retail clients.",
+      "source": "smartcompany.com.au",
+      "date": "2026-08-17",
+      "dateLabel": "17 Aug 2026",
+      "url": "https://www.smartcompany.com.au/marketing/cost-of-living-nostalgia-why-ooshies-became-hit-2026-stock/",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "grant-rdti",
+      "title": "R&D Tax Incentive (R&DTI)",
+      "why": "Ongoing federal tax offset for eligible R&D activity — relevant if the agency or a client is building custom tooling, AI features, or proprietary tech. Rules stay as-is until 1 July 2028.",
+      "source": "business.gov.au",
+      "date": "2026-08-01",
+      "dateLabel": "Ongoing",
+      "url": "https://business.gov.au/grants-and-programs/research-and-development-tax-incentive",
+      "category": "Australian Grants",
+      "status": "Open"
+    },
+    {
+      "id": "grant-small-business-energy-incentive",
+      "title": "Small Business Energy Incentive",
+      "why": "Bonus tax deduction of up to $20,000 for eligible energy-efficient assets and improvements — a straightforward one for the studio or any SME client's office fit-out.",
+      "source": "business.gov.au",
+      "date": "2026-08-01",
+      "dateLabel": "Open now",
+      "url": "https://business.gov.au/grants-and-programs/small-business-energy-incentive",
+      "category": "Australian Grants",
+      "status": "Open"
+    },
+    {
+      "id": "grant-emdg",
+      "title": "Export Market Development Grants (EMDG)",
+      "why": "Matched funding for marketing and promotional activity that helps Australian SMEs grow into export markets — currently closed, but worth flagging to clients eyeing international growth for the next round.",
+      "source": "business.gov.au",
+      "date": "2026-08-01",
+      "dateLabel": "Closed - next round TBA",
+      "url": "https://business.gov.au/grants-and-programs/export-market-development-grants-emdg",
+      "category": "Australian Grants",
+      "status": "Closed"
+    },
+    {
+      "id": "grant-female-founders-r3",
+      "title": "Boosting Female Founders Initiative — Round 3",
+      "why": "Co-contribution grants of $100,000-$480,000 for majority female-owned and led startups scaling into new markets — Stage 1 EOI has closed, but worth watching for any client that's a female-founded startup.",
+      "source": "business.gov.au",
+      "date": "2026-08-01",
+      "dateLabel": "Closed - Stage 1 EOI",
+      "url": "https://business.gov.au/grants-and-programs/boosting-female-founders-initiative-round-3",
+      "category": "Australian Grants",
+      "status": "Closed"
+    }
+  ]
+}
