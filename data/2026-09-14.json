@@ -1,0 +1,146 @@
+{
+  "issue": "2026-09-14",
+  "issueLabel": "14 September 2026",
+  "items": [
+    {
+      "id": "google-language-targeting-removed",
+      "title": "Google Ads removes campaign-level language targeting from Search and PMax from late September",
+      "why": "Language matching moves to ad copy and landing page language - any client with mixed-language ad groups or English ads pointing at non-English pages needs an alignment check before it lands.",
+      "source": "mediapost.com",
+      "date": "2026-09-11",
+      "dateLabel": "11 Sep 2026",
+      "url": "https://www.mediapost.com/publications/article/417817/google-ads-to-eliminate-language-targeting-in-late.html",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "google-ai-max-auto-migration-live",
+      "title": "Google's AI Max auto-migration went live on 1 September",
+      "why": "Search campaigns using automatically created assets or campaign-level broad match were switched to AI Max without anyone clicking a button - worth a search terms and AI-written copy review on every affected account now.",
+      "source": "commonthreadco.com",
+      "date": "2026-09-01",
+      "dateLabel": "1 Sep 2026",
+      "url": "https://commonthreadco.com/blogs/coachs-corner/google-ai-max-migration-live-september-1-2026-ecommerce",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "google-ai-mode-exact-phrase",
+      "title": "Exact and phrase match Search campaigns now eligible to serve in Google AI Mode",
+      "why": "Tightly controlled campaigns can now show up in AI Mode for direct-intent queries, and reporting does not yet split it out - watch spend and query matching closely.",
+      "source": "commonthreadco.com",
+      "date": "2026-09-09",
+      "dateLabel": "9 Sep 2026",
+      "url": "https://commonthreadco.com/blogs/coachs-corner/google-ai-mode-now-shows-your-search-campaigns-what-ecommerce-brands-need-to-check-right-now",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "google-data-strength-uplift",
+      "title": "Google launches Data Strength Uplift metric and plugs Data Manager into GA and DV360",
+      "why": "Puts a number on what offline and first-party data connections are worth - a useful, Google-sourced lever for the conversion tracking conversation with clients.",
+      "source": "commonthreadco.com",
+      "date": "2026-09-10",
+      "dateLabel": "10 Sep 2026",
+      "url": "https://commonthreadco.com/blogs/coachs-corner/google-data-strength-uplift-meridian-geox-ecommerce-september-2026",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "meta-ai-ads-audit-smb",
+      "title": "Meta AI can now read your Meta Ads and Google Workspace data to audit and optimise campaigns",
+      "why": "Small business clients now get a free in-house second opinion on their ads - expect them to arrive with Meta AI's recommendations, so we should know what it says first.",
+      "source": "facebook.com",
+      "date": "2026-08-19",
+      "dateLabel": "19 Aug 2026",
+      "url": "https://www.facebook.com/business/news/meta-ai-for-small-businesses",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "amazon-ads-chatgpt-integration",
+      "title": "Amazon Ads partners with OpenAI to run campaigns inside ChatGPT",
+      "why": "US pilot only for now, but it confirms ChatGPT Ads is becoming a real paid channel - and self-serve ChatGPT Ads Manager is already open to Australian businesses.",
+      "source": "advertising.amazon.com",
+      "date": "2026-09-10",
+      "dateLabel": "10 Sep 2026",
+      "url": "https://advertising.amazon.com/library/news/amazon-ads-chat-gpt-advertising-integration",
+      "category": "AI Tools"
+    },
+    {
+      "id": "chatgpt-images-2-5",
+      "title": "OpenAI releases ChatGPT Images 2.5 with templates, sketch input and faster editing",
+      "why": "Better subject preservation and flyer/product photo templates make it a more credible option for quick static creative variants and mockups.",
+      "source": "openai.com",
+      "date": "2026-09-08",
+      "dateLabel": "8 Sep 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "gpt-6-astra",
+      "title": "OpenAI launches GPT-6 Astra for work, with desktop computer use",
+      "why": "Strong on agentic and computer-use tasks, but early independent tests show weaker writing and a 2.5x price jump - not an automatic swap for copy workflows.",
+      "source": "openai.com",
+      "date": "2026-09-09",
+      "dateLabel": "9 Sep 2026",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "privacy-act-tranche-2-draft",
+      "title": "Draft Privacy Act overhaul released, submissions close 18 September",
+      "why": "Broader definition of personal information, a fair and reasonable test and new direct marketing rules would hit audience targeting and CRM-based ads - the biggest regulatory item on the horizon for us and clients.",
+      "source": "allens.com.au",
+      "date": "2026-09-04",
+      "dateLabel": "4 Sep 2026",
+      "url": "https://www.allens.com.au/insights-news/insights/2026/09/a-new-era-for-privacy-what-the-proposed-privacy-act-reforms-mean-in-practice/",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "iab-au-fy26-19-8b",
+      "title": "Australian internet ad spend grows 14% to $19.8 billion in FY26",
+      "why": "Search still takes 43% and social video grew 29.5% - solid market context for pitches and budget conversations.",
+      "source": "iabaustralia.com.au",
+      "date": "2026-08-31",
+      "dateLabel": "31 Aug 2026",
+      "url": "https://www.iabaustralia.com.au/news/internet-advertising-records-strongest-growth-in-four-years-reaching-19-8-billion-in-fy26/",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "westpac-sentiment-sept-2026",
+      "title": "Consumer sentiment drops 5.2% to 84.4 in September",
+      "why": "Fuel prices and rate hike fears are weighing on households heading into Q4 - one data point, not a trend, but worth factoring into retail client offer planning.",
+      "source": "westpaciq.com.au",
+      "date": "2026-09-08",
+      "dateLabel": "8 Sep 2026",
+      "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/09/er20260908BullConsumerSentiment.pdf",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "xero-influencer-apology",
+      "title": "Xero apologises after sponsored influencer post told followers to swap accountants for Claude",
+      "why": "A clean reminder that influencer scripts need brand and audience review - the post alienated Xero's core accountant partners.",
+      "source": "smartcompany.com.au",
+      "date": "2026-09-04",
+      "dateLabel": "4 Sep 2026",
+      "url": "https://www.smartcompany.com.au/marketing/xero-instagram-sponsored-influencer-post-ai-accountants-apology/",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "vic-shop-local-business-fund",
+      "title": "Victoria's Shop Local Business Fund - $5,000 grants, closes 30 September",
+      "why": "For business associations and councils to run shop local campaigns and online promotions - a door-opener for local precinct marketing work.",
+      "source": "djsir.vic.gov.au",
+      "date": "2026-09-10",
+      "dateLabel": "10 Sep 2026",
+      "url": "https://djsir.vic.gov.au/news-and-articles/more-funding-support-to-boost-small-businesses",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "vic-multicultural-business-skills-fund",
+      "title": "Victoria's Multicultural Business Skills Fund - $5,000 grants, closes 28 September",
+      "why": "Business associations can fund workshops and webinars for multicultural small businesses - digital marketing training is a natural fit.",
+      "source": "djsir.vic.gov.au",
+      "date": "2026-09-03",
+      "dateLabel": "3 Sep 2026",
+      "url": "https://djsir.vic.gov.au/news-and-articles/supporting-multicultural-small-businesses-to-upskill",
+      "category": "Australian Grants"
+    }
+  ]
+}
