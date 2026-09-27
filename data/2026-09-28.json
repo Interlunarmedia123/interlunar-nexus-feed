@@ -1,0 +1,146 @@
+{
+  "issue": "2026-09-28",
+  "issueLabel": "28 September 2026",
+  "items": [
+    {
+      "id": "google-demand-gen-drop-september",
+      "title": "Google's September Demand Gen Drop brings one-click Shorts and Gmail image ads",
+      "why": "A single tap now sends viewers from a 9:16 full-bleed Shorts image ad straight to the landing page, and Google says adding Gmail to Demand Gen lifts image creative conversions 40% at the same ROI - worth a creative spec check before Q4 budgets lock.",
+      "source": "blog.google",
+      "date": "2026-09-24",
+      "dateLabel": "24 Sep 2026",
+      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "merchant-center-ai-insights-australia",
+      "title": "Merchant Center AI Performance Insights is now live for Australian businesses",
+      "why": "Google will now show an AU retailer its share of voice in AI Mode and AI Overviews against similar brands - the first free, Google-sourced answer to the \"are we visible in AI search\" question clients keep asking.",
+      "source": "blog.google",
+      "date": "2026-09-16",
+      "dateLabel": "16 Sep 2026",
+      "url": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "customer-match-ip-timestamp",
+      "title": "Google Ads Customer Match now accepts IP addresses and interaction timestamps",
+      "why": "Two new identifiers mean better match rates from the same client CRM list, but they upload un-hashed and are blocked for EEA, UK and Swiss users - so the consent notice and data collection disclosures need a look before anyone uploads.",
+      "source": "searchengineland.com",
+      "date": "2026-09-25",
+      "dateLabel": "25 Sep 2026",
+      "url": "https://searchengineland.com/google-ads-adds-ip-address-and-timestamp-matching-to-customer-match-491517",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "threads-ads-drop-instagram",
+      "title": "Threads ads no longer require a matching Instagram account",
+      "why": "Clients with no Instagram presence can now advertise on Threads directly off their native profile, opening a 500 million user surface that most Australian advertisers have not touched yet.",
+      "source": "socialmediatoday.com",
+      "date": "2026-09-21",
+      "dateLabel": "21 Sep 2026",
+      "url": "https://www.socialmediatoday.com/news/threads-advertisers-will-no-longer-need-an-instagram-account/830967/",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "google-adds-australian-selfreg-codes",
+      "title": "Google Ads adds Australian self-regulatory advertising codes to its compliance list",
+      "why": "Google has quietly expanded the codes it expects advertisers to follow to include additional Australian ones - a cheap compliance review now beats a disapproval wave in the middle of a Q4 campaign.",
+      "source": "support.google.com",
+      "date": "2026-09-22",
+      "dateLabel": "22 Sep 2026",
+      "url": "https://support.google.com/adspolicy/answer/17597473?hl=en",
+      "category": "Meta & Google Ads"
+    },
+    {
+      "id": "openai-sponsored-agent-ads",
+      "title": "OpenAI is piloting click-to-chat ads that open a brand AI agent inside ChatGPT",
+      "why": "The click no longer goes to your site, it opens a branded conversation - which changes what a landing page is for and puts product data quality, not ad copy, at the centre of the funnel. Wayfair is already in the pilot.",
+      "source": "digiday.com",
+      "date": "2026-09-14",
+      "dateLabel": "14 Sep 2026",
+      "url": "https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "adobe-gemini-claude-tools",
+      "title": "Adobe brings Photoshop, Lightroom, Express and Firefly into Gemini, and Acrobat into Claude",
+      "why": "Pro creative tooling is now callable from inside the chat window, including hands-on Express and PDF editing in Claude - a real shortcut for producing client assets without bouncing between five apps.",
+      "source": "blog.adobe.com",
+      "date": "2026-09-24",
+      "dateLabel": "24 Sep 2026",
+      "url": "https://blog.adobe.com/en/publish/2026/09/24/adobe-comes-to-gemini-expands-what-you-can-do-in-claude",
+      "category": "AI Tools"
+    },
+    {
+      "id": "adthena-decision-intelligence",
+      "title": "Adthena launches Decision Intelligence for paid and AI-powered search",
+      "why": "Ask in plain language why CPA moved and get back a ranked action list that blends account data with competitor auction activity - the part Google Ads cannot show you on its own.",
+      "source": "globenewswire.com",
+      "date": "2026-09-16",
+      "dateLabel": "16 Sep 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/09/16/3363225/0/en/adthena-introduces-decision-intelligence-for-paid-and-ai-powered-search.html",
+      "category": "AI Tools"
+    },
+    {
+      "id": "cba-rba-september-hike-call",
+      "title": "CBA brings its call forward: RBA tipped to hike to 4.60% on 29 September",
+      "why": "Markets have a September rise around 90% priced, up from roughly 30% before the July inflation print - if it lands tomorrow, expect consumer-facing clients to get twitchy about Q4 budgets within the week.",
+      "source": "commbank.com.au",
+      "date": "2026-09-21",
+      "dateLabel": "21 Sep 2026",
+      "url": "https://www.commbank.com.au/articles/newsroom/2026/09/rba-expected-to-lift-interest-rates-next-week.html",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "aem-eight-weeks-chatgpt-ads",
+      "title": "Australian agency publishes eight weeks of ChatGPT Ads spend - and a 100% disqualification rate",
+      "why": "Clicks came in 68.9% cheaper than search, but every enquiry was the wrong customer, because ChatGPT ads only reach free and Go users while the buyers with budget authority sit behind the paywall. Useful ammunition next time a client asks why we are not on it yet.",
+      "source": "mumbrella.com.au",
+      "date": "2026-09-22",
+      "dateLabel": "22 Sep 2026",
+      "url": "https://mumbrella.com.au/the-big-problem-with-aem-your-best-customers-are-missing-938398",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "ad-standards-greenwashing-heater",
+      "title": "Ad Standards upholds two greenwashing complaints over website environmental claims",
+      "why": "The breaches were on the brand's own \"Environmental Impact\" page, not a paid ad - a reminder that green claims anywhere on a client site need evidence on file before we amplify them in copy.",
+      "source": "mumbrella.com.au",
+      "date": "2026-09-25",
+      "dateLabel": "25 Sep 2026",
+      "url": "https://mumbrella.com.au/burning-wood-doesnt-contribute-to-greehouse-effect-ad-standards-slaps-heater-brand-over-misleading-claims-938671",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "innovate-with-nbn-grants-2026",
+      "title": "Innovate with nbn Grants - $125,000 pool for regional businesses, closes 12 October",
+      "why": "Seven $15,000 category grants plus a $20,000 champion award for regional and remote businesses connected to the nbn - a clean fit for any regional client with a digital story worth telling.",
+      "source": "nbnco.com.au",
+      "date": "2026-09-01",
+      "dateLabel": "Closes 12 Oct 2026",
+      "url": "https://www.nbnco.com.au/campaigns/innovate-with-nbn-grants-program",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "lord-mayors-women-in-business-grant",
+      "title": "Lord Mayor's Women in Business Grant - $5,000 for Brisbane women-led businesses, closes 6 October",
+      "why": "A $250,000 pool paying up to $5,000 for business capability or professional services, which explicitly covers marketing and advisory work - flag it to any Brisbane client who fits.",
+      "source": "businesshub.brisbane.qld.au",
+      "date": "2026-09-01",
+      "dateLabel": "Closes 6 Oct 2026",
+      "url": "https://businesshub.brisbane.qld.au/grants-and-initiatives/women-in-business-grant/lord-mayors-women-in-business-grant-entry-guidelines",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "shop-local-business-fund-final-call",
+      "title": "Final call: Victoria's Shop Local Business Fund closes 4pm Wednesday 30 September",
+      "why": "Last two days on $5,000 grants for Victorian business associations and councils running shop-local activations - if a client sits on a trader group committee, today is the day to tell them.",
+      "source": "business.vic.gov.au",
+      "date": "2026-09-30",
+      "dateLabel": "Closes 30 Sep 2026",
+      "url": "https://business.vic.gov.au/grants-and-programs/shop-local-business-fund",
+      "category": "Australian Grants"
+    }
+  ]
+}
