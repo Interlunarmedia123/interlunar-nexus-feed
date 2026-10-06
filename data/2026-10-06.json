@@ -1,0 +1,146 @@
+{
+  "issue": "2026-10-06",
+  "issueLabel": "6 October 2026",
+  "items": [
+    {
+      "id": "google-asset-studio-youtube-video",
+      "title": "Google turns existing social assets and website content into YouTube videos",
+      "why": "Asset Studio's Gemini-powered multimodal video creation can turn website URLs and photos into stakeholder-ready YouTube creative. Start with existing social assets, then test changes gradually so Demand Gen has enough data to measure the new work.",
+      "source": "blog.google",
+      "date": "2026-10-01",
+      "dateLabel": "1 Oct 2026",
+      "url": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "google-automated-promotions",
+      "title": "Google Ads can now pull promotions from client websites automatically",
+      "why": "Eligible Search and Performance Max campaigns with location assets can display offers Google finds on the landing page. Audit the account-level automated asset setting before 12 October, then check that every live website offer is accurate and compliant.",
+      "source": "support.google.com",
+      "date": "2026-10-12",
+      "dateLabel": "Starts 12 Oct 2026",
+      "url": "https://support.google.com/google-ads/answer/18057626?hl=en",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "meta-creator-live-partnership-ads",
+      "title": "Meta opens Instagram Live partnership ads and expands creator APIs",
+      "why": "Brands can now amplify a creator's Instagram Live content as a partnership ad. Meta also added Facebook creators, messaging and content discovery to its creator APIs, while partnership ads are coming to the Meta Ads MCP connector for agent-led workflows.",
+      "source": "facebook.com/business",
+      "date": "2026-09-29",
+      "dateLabel": "From 29 Sep 2026",
+      "url": "https://www.facebook.com/business/news/iab-global-creator-week-making-it-easier-for-businesses-to-partner-with-creators",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "chatgpt-visual-ads-measurement",
+      "title": "ChatGPT is testing visual ads during image generation",
+      "why": "The US test begins later in October with clearly labelled image ads kept separate from generated output. More important for media planning, ChatGPT Ads now supports conversion data and attribution partners including Hightouch, LiveRamp, AppsFlyer, Triple Whale and Rockerbox, plus early incrementality testing.",
+      "source": "openai.com",
+      "date": "2026-10-05",
+      "dateLabel": "5 Oct 2026",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "openai-dots-always-on-agents",
+      "title": "OpenAI launches Dots, always-on agents that keep working between conversations",
+      "why": "Dots have their own cloud computer and browser, can connect to more than 4,000 apps, and can update people through ChatGPT, Slack or Teams. They are rolling out to eligible Pro, Business Premium and Enterprise users, making recurring research and project tracking realistic without rebuilding the workflow each time.",
+      "source": "openai.com",
+      "date": "2026-09-29",
+      "dateLabel": "29 Sep 2026",
+      "url": "https://openai.com/index/introducing-dots/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "chatgpt-work-team-automation-rollout",
+      "title": "ChatGPT Work adds shared Spaces, Team Tasks and Slack and Teams workflows",
+      "why": "The latest rollout brings shared Pages and files into ChatGPT Space, scheduled or event-triggered Team Tasks, company-managed connections, and work requests from approved Slack and Microsoft Teams conversations. Agency teams can now centralise briefs, recurring digests and collaborative production in one governed workspace.",
+      "source": "learn.chatgpt.com",
+      "date": "2026-10-02",
+      "dateLabel": "2 Oct 2026",
+      "url": "https://learn.chatgpt.com/docs/whats-new/september-28-october-2-2026",
+      "category": "AI Tools"
+    },
+    {
+      "id": "meta-muse-small-business",
+      "title": "Meta launches Muse for Small Business with ad, commerce and creative connections",
+      "why": "Muse can connect Meta ad accounts, Instagram analytics, Facebook Pages and dozens of business tools, then analyse performance and help with routine work in the background. It is currently limited to the US and Canada, but it is a clear preview of Meta's agent layer for small-business marketing.",
+      "source": "about.fb.com",
+      "date": "2026-09-29",
+      "dateLabel": "29 Sep 2026",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "rba-september-rate-rise-460",
+      "title": "RBA raises the cash rate to 4.60% as inflation risks materialise",
+      "why": "The unanimous 25-basis-point increase is the third rise this year. The RBA says inflation is still too high, cost pressures are reaching prices and further increases remain possible, so consumer-facing clients should revisit Q4 demand assumptions rather than treating the move as a one-day news event.",
+      "source": "rba.gov.au",
+      "date": "2026-09-29",
+      "dateLabel": "29 Sep 2026",
+      "url": "https://www.rba.gov.au/media-releases/2026/mr-26-27.html",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "australia-card-surcharge-removal",
+      "title": "Australian businesses must remove card payment surcharges",
+      "why": "From 1 October, eftpos, Mastercard and Visa no longer allow card surcharges, with American Express, UnionPay and PayPal also removing them. Clients need terminals, checkout copy and price displays updated now; weekend, public holiday, booking and general service fees are separate.",
+      "source": "rba.gov.au",
+      "date": "2026-10-01",
+      "dateLabel": "Effective 1 Oct 2026",
+      "url": "https://www.rba.gov.au/payments-and-infrastructure/review-of-retail-payments-regulation/2026-03/conclusions-paper/faqs/",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "anz-tiktok-overseas-spend-105",
+      "title": "Australian and New Zealand brands double overseas TikTok spend",
+      "why": "International TikTok spend from Australian and New Zealand brands rose 105% over the past year, and more than one in three major advertisers now invest overseas. For export-ready clients, the practical opportunity is to use platform behaviour as both market research and a route to international demand.",
+      "source": "marketing-interactive.com",
+      "date": "2026-10-01",
+      "dateLabel": "1 Oct 2026",
+      "url": "https://www.marketing-interactive.com/australian-brands-look-offshore-as-tiktok-ad-spend-jumps-105",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "innovation-connect-act-october-2026",
+      "title": "Innovation Connect ACT offers $10,000 to $30,000, closes 8 October",
+      "why": "Matched funding is available to ACT and surrounding-region technology businesses with turnover under $2 million. Eligible work includes prototypes, functional software, formal marketing strategy, market testing and IP advice, so suitable clients have only two days to move.",
+      "source": "business.gov.au",
+      "date": "2026-10-08",
+      "dateLabel": "Closes 8 Oct 2026",
+      "url": "https://business.gov.au/grants-and-programs/innovation-connect-act",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "innovate-with-nbn-grants-2026-update",
+      "title": "Innovate with nbn Grants has $125,000 for regional businesses, closes 12 October",
+      "why": "Seven category winners receive $15,000 and one also takes a $20,000 champion award. Eligible applicants need an ABN, an nbn connection and a regional location, with the application centred on a clear problem, digital solution and demonstrated impact.",
+      "source": "nbnco.com.au",
+      "date": "2026-10-12",
+      "dateLabel": "Closes 12 Oct 2026",
+      "url": "https://www.nbnco.com.au/campaigns/innovate-with-nbn-grants-program",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "victorian-digital-games-fund-october-2026",
+      "title": "Victoria's digital games funding round closes 18 October",
+      "why": "Victorian developers can seek support for original game concepts and production, with the broader Victorian Production Fund offering up to $300,000 per stage and $500,000 per project. It is a strong lead for gaming, interactive and extended-reality businesses in the client network.",
+      "source": "business.vic.gov.au",
+      "date": "2026-10-18",
+      "dateLabel": "Closes 18 Oct 2026",
+      "url": "https://business.vic.gov.au/grants-and-programs/victorian-production-fund-vpf-games",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "26ten-workplace-grants-tas-2026",
+      "title": "Tasmania's 26Ten workplace grants offer up to $65,000, closes 29 October",
+      "why": "Tasmanian businesses, sole traders and organisations can fund projects that improve workers' reading, writing, maths, speaking and listening skills. Get Ready grants of up to $5,000 are also available for organisations that need help preparing a full workplace application.",
+      "source": "business.gov.au",
+      "date": "2026-10-29",
+      "dateLabel": "Closes 29 Oct 2026",
+      "url": "https://business.gov.au/grants-and-programs/26ten-workplace-and-get-ready-grants-tas",
+      "category": "Australian Grants"
+    }
+  ]
+}
