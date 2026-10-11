@@ -1,0 +1,146 @@
+{
+  "issue": "2026-10-12",
+  "issueLabel": "12 October 2026",
+  "items": [
+    {
+      "id": "google-demand-gen-video-overlays",
+      "title": "Google Ads is adding automatic text overlays to Demand Gen video ads, on by default",
+      "why": "A new \"Overlay on videos\" asset optimization setting lets Google stamp your existing text assets over video creative, and it appears to be enabled by default. Audit asset optimization on every Demand Gen campaign this week - auto-generated overlays can cover brand elements or introduce messaging nobody signed off on.",
+      "source": "searchengineland.com",
+      "date": "2026-10-09",
+      "dateLabel": "Oct 2026",
+      "url": "https://searchengineland.com/google-ads-adds-automatic-text-overlays-to-demand-gen-video-ads-494885",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "google-conversion-lift-self-serve",
+      "title": "Conversion Lift opens to Search and Performance Max without a Google rep",
+      "why": "Self-serve incrementality testing now covers the two campaign types that matter most, gated at 1,000 observed conversions and a $5,000 campaign budget. This is the cleanest way to answer whether branded Search and PMax are creating conversions or just claiming them - worth scoping for the accounts that clear the threshold.",
+      "source": "searchengineland.com",
+      "date": "2026-10-08",
+      "dateLabel": "8 Oct 2026",
+      "url": "https://searchengineland.com/google-opens-conversion-lift-to-search-and-performance-max-494195",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "google-ai-max-copy-preview",
+      "title": "Google Ads now previews AI Max generated ad copy before you opt in",
+      "why": "Enter a final URL and Google returns up to 10 sample AI-generated headlines and descriptions in about 30 seconds, no commitment required. Use it as a brand-voice screening step before enabling text customisation - and keep monitoring live assets, because the previews are examples, not the served copy.",
+      "source": "searchengineland.com",
+      "date": "2026-10-07",
+      "dateLabel": "Oct 2026",
+      "url": "https://searchengineland.com/google-ads-lets-advertisers-preview-ai-max-generated-ad-copy-before-opting-in-494590",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "meta-commercial-terms-30-october",
+      "title": "Meta's updated Commercial Terms and Self-Serve Ad Terms take effect 30 October",
+      "why": "Meta is folding the Product Catalog Terms into the Commercial Terms and the Ad Creative Generative AI Terms into the Self-Serve Ad Terms. Preview copies of both are already published - have whoever signs off on client ad accounts read them before the end of the month rather than after.",
+      "source": "facebook.com/business",
+      "date": "2026-10-30",
+      "dateLabel": "Effective 30 Oct 2026",
+      "url": "https://www.facebook.com/business/help/2481113349080785",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "merchant-center-frequent-changes-disapproval",
+      "title": "Merchant Center may disapprove products that change more than once a day",
+      "why": "Google quietly revised its automations help page: products with frequent price or availability changes may be disapproved rather than updated when a mismatch is detected, and updates can stop entirely if mismatches pile up. Anyone running dynamic pricing or fast-moving stock into Shopping should check feed and landing page consistency before Black Friday.",
+      "source": "seroundtable.com",
+      "date": "2026-10-08",
+      "dateLabel": "8 Oct 2026",
+      "url": "https://www.seroundtable.com/google-merchant-center-disapprove-products-chnage-fast-42251.html",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "anthropic-claude-haiku-5-5",
+      "title": "Anthropic ships Claude Haiku 5.5 at $0.10 input per million tokens",
+      "why": "Pricing drops to $0.10 input and $0.50 output per million tokens up to 100,000 tokens, roughly 75% cheaper than Haiku 4.5, with a 5x step-up beyond that window. High-volume, low-complexity jobs - bulk classification, ad copy variants, feed cleanup - get materially cheaper to run, provided prompts stay under the token boundary.",
+      "source": "anthropic.com",
+      "date": "2026-10-07",
+      "dateLabel": "7 Oct 2026",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "category": "AI Tools"
+    },
+    {
+      "id": "openai-gpt-6-intelligent-ui",
+      "title": "OpenAI brings GPT-6 and Intelligent UI to all ChatGPT users",
+      "why": "GPT-6 now composes answers out of charts, forms, tappable buttons and interactive diagrams rather than plain text, across the free tier. For client education and internal explainers it means ChatGPT can produce a usable interactive artefact in the conversation - and it raises the bar on what a static PDF deliverable looks like by comparison.",
+      "source": "openai.com",
+      "date": "2026-10-08",
+      "dateLabel": "8 Oct 2026",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "google-synthid-detector-public",
+      "title": "Google opens SynthID Detector to everyone for checking AI-generated media",
+      "why": "The detector is now live globally in English and reads watermarks from Google, OpenAI, NVIDIA, Kakao and soon Apple across images, video and audio. Useful as a cheap provenance check on stock, UGC and supplied creative before it goes into a client campaign, though it only catches media that carries a supported watermark.",
+      "source": "blog.google",
+      "date": "2026-10-07",
+      "dateLabel": "7 Oct 2026",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "au-ad-market-august-decline",
+      "title": "Australian ad market fell 3.4% in August as digital pulled back",
+      "why": "Guideline SMI has agency media spend down 3.4% year-on-year, with digital off 7.1% while outdoor rose 10.7% and pure-play video rose 13.8%. The calendar year is still up 0.7% and late digital bookings have revised earlier months upward, so treat this as a short month rather than a trend - but note government spend jumped 44.4%, which tightens auctions in categories that compete with it.",
+      "source": "marketing-interactive.com",
+      "date": "2026-10-09",
+      "dateLabel": "9 Oct 2026",
+      "url": "https://www.marketing-interactive.com/australian-ad-market-slips-as-digital-spend-pulls-back",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "oaic-adm-transparency-december",
+      "title": "OAIC publishes guidance ahead of the 10 December automated decision-making rules",
+      "why": "From 10 December 2026, APP entities must disclose in their privacy policy where a computer program makes or substantially helps make decisions affecting people's rights. If a client uses automated lead scoring, eligibility logic or algorithmic pricing, their privacy policy needs updating - and the agency is usually the one who knows what is actually running.",
+      "source": "oaic.gov.au",
+      "date": "2026-09-30",
+      "dateLabel": "30 Sep 2026",
+      "url": "https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "agentic-media-buying-australia",
+      "title": "Agent-to-agent media buying could hit the Australian mainstream by 2027",
+      "why": "Pubx ANZ country manager Andrew Gilbert is standing up an Australian chapter of AgenticAdvertising.org and pushing the Ad Context Protocol, after Pubx ran an end-to-end agentic media buy on stage at Advertising Week. Observation, not prediction we are betting on - but the first local event is in Sydney on 22 October and it is worth having a point of view before clients ask.",
+      "source": "mumbrella.com.au",
+      "date": "2026-10-08",
+      "dateLabel": "8 Oct 2026",
+      "url": "https://mumbrella.com.au/marketers-and-agencies-summoned-to-come-to-grips-with-agentic-buying-940210",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "wine-tourism-cellar-door-round-8",
+      "title": "Wine Tourism and Cellar Door Grant Round 8 closes 23 October",
+      "why": "Wine Australia is running $10 million in grants of up to $100,000 tied to eligible physical cellar door sales, closing 23 October 2026 at 5:30pm ACT time. Eligibility needs a registered wine or cider producer with an active ABN and at least $1,207,000 in rebatable wine sales for the relevant year, so it is a narrow but high-value fit.",
+      "source": "grants.gov.au",
+      "date": "2026-10-23",
+      "dateLabel": "Closes 23 Oct 2026",
+      "url": "https://www.grants.gov.au/Go/Show?GoUuid=667d2c80-e446-4d51-9d98-ce0b4fb516a5",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "defence-industry-development-grants-batch",
+      "title": "Defence Industry Development Grants: Export and Security batches close 31 October",
+      "why": "The Exports stream runs to $250,000 and the Security stream to $100,000, both at 50% matched funding, with current batches closing 31 October 2026 at 11:59pm AEST. The program is being rebuilt - new guidelines land around 3 November when all four streams reopen, so a defence-adjacent client either moves now or waits for the new rules.",
+      "source": "business.gov.au",
+      "date": "2026-10-31",
+      "dateLabel": "Closes 31 Oct 2026",
+      "url": "https://business.gov.au/grants-and-programs/defence-industry-development-grants-program",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "small-business-export-loan-ongoing",
+      "title": "Export Finance Australia's Small Business Export Loan has no closing date",
+      "why": "Loans of $20,000 to $350,000 with no property security, secured on a director's guarantee, funds available within 72 hours of approval and early repayment without penalty. Not a grant, but the most broadly useful option on this list for any client with an export contract to fulfil and a working capital gap.",
+      "source": "exportfinance.gov.au",
+      "date": "2026-10-12",
+      "dateLabel": "Open year-round",
+      "url": "https://www.exportfinance.gov.au/small-business/",
+      "category": "Australian Grants"
+    }
+  ]
+}
