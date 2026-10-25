@@ -1,0 +1,136 @@
+{
+  "issue": "2026-10-26",
+  "issueLabel": "26 October 2026",
+  "items": [
+    {
+      "id": "meta-brand-ad-formats",
+      "title": "Meta adds high-impact brand ad formats across Facebook and Instagram",
+      "why": "Ads Super Burst, First Impression Ads and expanded Reels Trending Ads give brand campaigns more guaranteed-attention inventory, so pricing and incremental reach should be tested against standard auction placements before budgets move.",
+      "source": "searchengineland.com",
+      "date": "2026-10-15",
+      "dateLabel": "15 Oct 2026",
+      "url": "https://searchengineland.com/meta-introduces-new-brand-advertising-formats-across-facebook-and-instagram-496608",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "google-channel-priority-budget-controls",
+      "title": "Google Ads adds channel prioritisation and budget caps",
+      "why": "Advertisers can now rank ad networks by priority and cap spend across channels including Search and YouTube, giving teams a practical way to stop automation from directing too much budget into lower-value inventory.",
+      "source": "blog.google",
+      "date": "2026-10-14",
+      "dateLabel": "14 Oct 2026",
+      "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "google-demand-gen-data-strength",
+      "title": "Google brings data-strength measurement into Demand Gen",
+      "why": "The new uplift metric, wider Data Manager support and incoming enhanced conversions for DV360 and GA make first-party data quality more visible, so measurement setup is now a campaign optimisation lever rather than back-office plumbing.",
+      "source": "blog.google",
+      "date": "2026-10-13",
+      "dateLabel": "13 Oct 2026",
+      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "google-ads-editor-210-support-ended",
+      "title": "Google Ads Editor 2.10 and earlier are no longer supported",
+      "why": "Any team still running 2.10 or older must upgrade before bulk campaign work continues, making this a quick agency-wide version check rather than a troubleshooting surprise during peak season.",
+      "source": "support.google.com",
+      "date": "2026-10-19",
+      "dateLabel": "Effective 19 Oct 2026",
+      "url": "https://support.google.com/google-ads/editor/answer/70133?hl=en",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "openai-dots-always-on-agents",
+      "title": "OpenAI launches always-on dots for proactive work",
+      "why": "Dots can work across ChatGPT, Slack and Teams with a cloud computer and connected apps, making proactive research and multi-step operational work usable beyond a single chat, subject to permissions and approval rules.",
+      "source": "openai.com",
+      "date": "2026-10-22",
+      "dateLabel": "22 Oct 2026",
+      "url": "https://openai.com/index/introducing-dots/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "canva-craft-image-model",
+      "title": "Canva unveils Craft, its first in-house image model",
+      "why": "An image model built directly into Canva shortens the path from prompt to editable campaign asset, so creative teams should test brand consistency and revision speed against their current generation stack.",
+      "source": "canva.com",
+      "date": "2026-10-22",
+      "dateLabel": "22 Oct 2026",
+      "url": "https://www.canva.com/newsroom/news/canva-craft/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "anthropic-agent-skills-aaif",
+      "title": "Anthropic donates Agent Skills to the Linux Foundation's AAIF",
+      "why": "Moving the standard to a vendor-neutral foundation with maintainers from Anthropic, Google and OpenAI reduces lock-in and makes reusable agency workflows more likely to travel across agent platforms.",
+      "source": "anthropic.com",
+      "date": "2026-10-22",
+      "dateLabel": "22 Oct 2026",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "category": "AI Tools"
+    },
+    {
+      "id": "meta-apac-small-business-ai-study",
+      "title": "Meta study finds 71% of surveyed APAC small businesses report an AI sales lift",
+      "why": "The commissioned YouGov study included Australia and shows adoption is ahead of capability, with 86% wanting more guidance, creating a clear opening for practical ROI, privacy and workflow support rather than another generic AI pitch.",
+      "source": "about.fb.com",
+      "date": "2026-10-14",
+      "dateLabel": "14 Oct 2026",
+      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "au-childrens-online-privacy-code",
+      "title": "Australia's Children's Online Privacy Code is due by 10 December",
+      "why": "Apps, games and websites likely to be accessed by children face additional privacy requirements, so audience data, profiling, personalisation and marketing defaults need review before the final code lands.",
+      "source": "oaic.gov.au",
+      "date": "2026-12-10",
+      "dateLabel": "Due 10 Dec 2026",
+      "url": "https://www.oaic.gov.au/privacy/privacy-registers/privacy-codes/childrens-online-privacy-code",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "accc-emissions-claims-guidance",
+      "title": "ACCC issues new guidance for emissions claims in marketing",
+      "why": "Australian businesses promoting carbon or emissions credentials should now re-check evidence, qualifications and headline wording because broad green claims can create consumer-law risk when the detail does not match the impression.",
+      "source": "accc.gov.au",
+      "date": "2026-10-20",
+      "dateLabel": "20 Oct 2026",
+      "url": "https://www.accc.gov.au/media-release/accc-releases-guidance-on-business-emissions-claims-to-consumers",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "nt-grow-your-business-tier-2",
+      "title": "NT Grow Your Business Tier 2 offers up to $20,000",
+      "why": "Northern Territory businesses with a defined growth opportunity can seek $5,001 to $20,000 for structured improvements, with the current round closing 13 November.",
+      "source": "grantsnt.nt.gov.au",
+      "date": "2026-11-13",
+      "dateLabel": "Closes 13 Nov 2026",
+      "url": "https://grantsnt.nt.gov.au/grants/grow-your-business-program-tier-2-growth-round-1-2026",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "nsw-quick-response-fashion-grants",
+      "title": "NSW Quick Response Fashion Grants offer up to $10,000",
+      "why": "Emerging NSW designers, textile makers and fashion businesses can fund essential equipment or professional development, with applications closing 19 November.",
+      "source": "business.gov.au",
+      "date": "2026-11-19",
+      "dateLabel": "Closes 19 Nov 2026",
+      "url": "https://business.gov.au/grants-and-programs/quick-response-fashion-grants-nsw",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "nsw-ev-fleet-kick-start-waitlist",
+      "title": "NSW EV fleet kick-start funding remains open on a waitlist",
+      "why": "Eligible ABN holders with small fleets can still join the queue for vehicle incentives of $5,000 to $50,000 plus charging support, but the round can close before 30 November if remaining funds cannot meet demand.",
+      "source": "energy.nsw.gov.au",
+      "date": "2026-11-30",
+      "dateLabel": "Closes by 30 Nov 2026",
+      "url": "https://www.energy.nsw.gov.au/business-and-industry/programs-grants-and-schemes/electric-vehicles/electric-vehicle-fleets/kick-start-funding",
+      "category": "Australian Grants"
+    }
+  ]
+}
