@@ -1,0 +1,146 @@
+{
+  "issue": "2026-11-09",
+  "issueLabel": "9 November 2026",
+  "items": [
+    {
+      "id": "meta-pauses-commercial-terms-update",
+      "title": "Meta has paused its Commercial Terms and Self-Serve Ad Terms update",
+      "why": "The rewrite that was due to land on 20 November will not take effect - Meta says it is still consulting stakeholders and the existing terms stay in force until further notice. If you briefed a client on new AI-creative liability wording, walk that back and keep the old terms as the live reference.",
+      "source": "facebook.com",
+      "date": "2026-11-01",
+      "dateLabel": "Nov 2026",
+      "url": "https://www.facebook.com/business/help/2481113349080785",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "meta-pixel-on-device-conversions-nov-12",
+      "title": "Meta Pixel starts measuring conversions on customer devices from 12 November, on by default",
+      "why": "A new Events Manager setting called \"Measure conversions on customer devices\" switches itself on for eligible datasets and will recover purchases that never reached Meta's servers - so reported conversions can jump 15 days before Black Friday with nothing changing in the store. Baseline every account against real orders this week, or you will read a measurement change as a performance win.",
+      "source": "ppc.land",
+      "date": "2026-10-27",
+      "dateLabel": "27 Oct 2026",
+      "url": "https://ppc.land/meta-pixel-will-count-more-conversions-from-nov-12-unless-advertisers-opt-out/",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "google-drops-search-language-targeting",
+      "title": "Google Ads has removed the language setting from Search campaigns",
+      "why": "The campaign-level language control is gone from Search and no longer governs Search Network delivery in Performance Max, so the language your ad copy is written in is now what decides who sees it. For multilingual accounts that means ad group and copy structure is the only lever left - audit any account where one campaign carried two languages.",
+      "source": "ppc.land",
+      "date": "2026-11-08",
+      "dateLabel": "8 Nov 2026",
+      "url": "https://ppc.land/google-ads-drops-language-targeting-from-search-campaigns/",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "pmax-may-skip-brand-queries",
+      "title": "Google's help docs now say Performance Max may filter out brand and navigational searches",
+      "why": "New wording says PMax can leave brand-specific and navigational queries to dedicated Search campaigns, with no setting, no report and no announced date. Observation, not confirmed behaviour change - but if an account has no brand Search campaign, that traffic may now go unserved, so check brand impression share before assuming PMax has it covered.",
+      "source": "seroundtable.com",
+      "date": "2026-11-03",
+      "dateLabel": "3 Nov 2026",
+      "url": "https://www.seroundtable.com/google-ads-pmax-brand-queries-42438.html",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "ga-data-manager-beta-double-counting",
+      "title": "Google Analytics Data Manager is in beta, with a warning about double-counted conversions",
+      "why": "Released 6 November, it puts every data stream, product link and first-party import on one screen in the Analytics admin console, with diagnostics for broken connections. Google's own docs flag the catch: run the same pipeline through both Analytics and Google Ads and conversions get logged twice - worth a deliberate check on any account with both setups.",
+      "source": "ppc.land",
+      "date": "2026-11-08",
+      "dateLabel": "8 Nov 2026",
+      "url": "https://ppc.land/google-analytics-data-manager-duplicate-ads-setups-can-log-conversions-twice/",
+      "category": "Advertising Platforms"
+    },
+    {
+      "id": "meta-muse-spaces",
+      "title": "Meta's Muse can now build small self-updating tools from a plain-language description",
+      "why": "Announced 6 November, \"spaces\" lets someone describe a tool - an order tracker, a price watcher, a gift list - and the agent builds it, pins it in the app and refreshes it in the background once linked to other apps. Meta named no price and no ad terms, so treat it as a signal about where SMB tooling is heading rather than something to put in a client stack today.",
+      "source": "ppc.land",
+      "date": "2026-11-08",
+      "dateLabel": "8 Nov 2026",
+      "url": "https://ppc.land/metas-muse-gains-self-updating-tools-that-track-prices-and-instagram-saves/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "pinterest-genai-terms-contractual",
+      "title": "Pinterest's generative AI rules become contract terms on 12 November",
+      "why": "The GenAI Acceptable Use Guidelines move from help page to binding policy, with 17 banned uses and stated penalties up to account termination, and the updated Privacy Policy adds Pinterest's generative models to what it trains on your Pins. Human reviewers may read prompts and outputs with no opt-out mentioned - relevant to anyone using Pinterest's AI tools on a client account.",
+      "source": "ppc.land",
+      "date": "2026-11-08",
+      "dateLabel": "8 Nov 2026",
+      "url": "https://ppc.land/pinterest-users-who-abuse-ai-tools-can-lose-accounts-from-november-12/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "brinker-context-operations-problem",
+      "title": "Scott Brinker: AI makes weak marketing context an operations problem, not a prompting one",
+      "why": "His argument is that slow campaign production used to act as a safety net - people caught the outdated claim or the wrong audience. Compress that into a few prompts and the mistake ships at the same speed as the work. The practical read: decide what brand rules, product facts and approval logic live inside your systems and who keeps them current, before you scale agent-built output.",
+      "source": "martech.org",
+      "date": "2026-11-05",
+      "dateLabel": "5 Nov 2026",
+      "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+      "category": "AI Tools"
+    },
+    {
+      "id": "rba-cash-rate-485",
+      "title": "RBA lifts the cash rate to 4.85%, an 18-year high, with the next call on 8 December",
+      "why": "Effective 4 November, the fifth hike this year, against annual CPI of 4.3% to September. Household budgets get tighter right through the Black Friday and Christmas window, so expect discount-led messaging to outperform aspirational creative and plan for softer conversion rates on considered purchases rather than reading them as account problems.",
+      "source": "rba.gov.au",
+      "date": "2026-11-04",
+      "dateLabel": "4 Nov 2026",
+      "url": "https://www.rba.gov.au/cash-rate-target-overview.html",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "oaic-adm-transparency-10-december",
+      "title": "From 10 December, Australian privacy policies must disclose automated decision-making",
+      "why": "APP 1.7 to 1.9 require APP entities to say in their privacy policy where a computer program makes, or substantially informs, decisions that significantly affect someone's rights or interests using their personal information. The OAIC has published its final guidance. Any client scoring leads, screening applicants or pricing with an algorithm needs a privacy policy update inside the next month.",
+      "source": "oaic.gov.au",
+      "date": "2026-09-30",
+      "dateLabel": "Sep 2026",
+      "url": "https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "smi-september-ad-spend",
+      "title": "Australian ad spend fell 5.2% in September, but the year is still up 0.8%",
+      "why": "Guideline SMI expects the September figure to improve as late digital trades reconcile - August has already revised to 3% growth, making seven of nine months positive. Outdoor was up 9.9% and broadcast TV down 13.8%. Agency bookings for October and November are tracking above 2025 excluding digital, so do not read one soft month as a market turning.",
+      "source": "adnews.com.au",
+      "date": "2026-11-02",
+      "dateLabel": "Nov 2026",
+      "url": "https://www.adnews.com.au/news/ad-spend-slides-5-2-in-september",
+      "category": "Business & Industry"
+    },
+    {
+      "id": "qld-construction-business-advancement-grant",
+      "title": "Queensland Construction Business Advancement Grant: up to $5,000 for business software",
+      "why": "Open now and running to 5pm on 7 May 2027 unless funding runs out, paid as a rebate for business management software or related training - so do not buy before approval. A clean fit for any construction client still running jobs out of spreadsheets, and a reason to time a CRM or quoting rollout.",
+      "source": "business.qld.gov.au",
+      "date": "2026-11-06",
+      "dateLabel": "Open now",
+      "url": "https://www.business.qld.gov.au/running-business/support-services/financial/grants/construction",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "qld-small-business-security-grants",
+      "title": "Queensland small business security grants: $1,500 to $20,000, closing 23 April 2027",
+      "why": "Round 3 of the Secure Communities Partnership Program funds alarms, access control, surveillance and detection, and property owners can apply where the work benefits eligible small business tenants. Long runway, but retail and hospitality clients carrying shrinkage or break-in costs should get the application in while funding lasts.",
+      "source": "business.qld.gov.au",
+      "date": "2026-11-06",
+      "dateLabel": "Closes 23 Apr 2027",
+      "url": "https://www.business.qld.gov.au/running-business/support-services/financial/grants/secure-communities/small-business",
+      "category": "Australian Grants"
+    },
+    {
+      "id": "wa-narelle-business-recovery-grants",
+      "title": "WA cyclone recovery grants of up to $20,000 close 5pm AWST on 14 December",
+      "why": "The Small and Medium Business Recovery Support Program covers clean-up, repairs and reinstatement for businesses in Ashburton, Carnarvon, Exmouth and Upper Gascoyne after Severe Tropical Cyclone Narelle, plus economic-loss grants of $10,000 or $20,000 for Exmouth businesses hit by the trade drop. Narrow geography, hard deadline - SBDC advises submitting 24 to 48 hours early.",
+      "source": "smallbusiness.wa.gov.au",
+      "date": "2026-11-06",
+      "dateLabel": "Closes 14 Dec 2026",
+      "url": "https://www.smallbusiness.wa.gov.au/narelle-recovery",
+      "category": "Australian Grants"
+    }
+  ]
+}
